@@ -1,0 +1,362 @@
+{
+  "niveau": "BEPC",
+  "domaines": [
+    {
+      "domaine": "Culture Générale",
+      "questions": [
+        {
+          "question": "Qui a écrit l'œuvre 'Les Misérables' ?",
+          "choix": ["Victor Hugo", "Émile Zola", "Molière", "Albert Camus"],
+          "reponse": "Victor Hugo",
+          "explication": "L'œuvre 'Les Misérables' a été écrite par Victor Hugo."
+        },
+        {
+          "question": "En quelle année l'Empire romain a-t-il été fondé ?",
+          "choix": [
+            "27 av. J.-C.",
+            "49 av. J.-C.",
+            "500 av. J.-C.",
+            "1000 av. J.-C."
+          ],
+          "reponse": "27 av. J.-C.",
+          "explication": "L'Empire romain a été fondé en 27 avant Jésus-Christ sous le règne d'Auguste."
+        },
+        {
+          "question": "Quel est le plus grand océan du monde ?",
+          "choix": ["Atlantique", "Indien", "Arctique", "Pacifique"],
+          "reponse": "Pacifique",
+          "explication": "Le Pacifique est le plus grand océan du monde."
+        },
+        {
+          "question": "Qui est le premier président de la République du Burkina Faso ?",
+          "choix": [
+            "Maurice Yaméogo",
+            "Thomas Sankara",
+            "Blaise Compaoré",
+            "Jean-Baptiste Ouédraogo"
+          ],
+          "reponse": "Maurice Yaméogo",
+          "explication": "Maurice Yaméogo fut le premier président de la République du Burkina Faso."
+        },
+        {
+          "question": "Quelle est la monnaie du Japon ?",
+          "choix": ["Yen", "Won", "Dollar", "Rupee"],
+          "reponse": "Yen",
+          "explication": "La monnaie du Japon est le Yen."
+        }
+      ]
+    },
+    {
+      "domaine": "Actualités nationales et internationales",
+      "questions": [
+        {
+          "question": "Quel événement majeur a eu lieu au Burkina Faso en 2014 ?",
+          "choix": [
+            "La révolte populaire",
+            "La création de la CEDEAO",
+            "Les Jeux Olympiques",
+            "L'indépendance du pays"
+          ],
+          "reponse": "La révolte populaire",
+          "explication": "En 2014, le Burkina Faso a connu une révolte populaire qui a abouti à la démission du président Blaise Compaoré."
+        },
+        {
+          "question": "Qui est le Secrétaire général de l'ONU en 2024 ?",
+          "choix": [
+            "António Guterres",
+            "Ban Ki-moon",
+            "Kofi Annan",
+            "Amina J. Mohammed"
+          ],
+          "reponse": "António Guterres",
+          "explication": "António Guterres est le Secrétaire général de l'ONU depuis janvier 2017."
+        },
+        {
+          "question": "Quel pays a accueilli les Jeux Olympiques de 2024 ?",
+          "choix": ["France", "Japon", "Brésil", "Chine"],
+          "reponse": "France",
+          "explication": "Les Jeux Olympiques de 2024 se dérouleront en France, à Paris."
+        },
+        {
+          "question": "Quel est le nom du président actuel des États-Unis en 2024 ?",
+          "choix": [
+            "Barack Obama",
+            "Donald Trump",
+            "Joe Biden",
+            "Kamala Harris"
+          ],
+          "reponse": "Joe Biden",
+          "explication": "Joe Biden est le président des États-Unis depuis janvier 2021."
+        },
+        {
+          "question": "Quel est le pays d'origine du président de l'Afrique du Sud en 2024 ?",
+          "choix": ["Afrique du Sud", "Zambie", "Zimbabwe", "Kenya"],
+          "reponse": "Afrique du Sud",
+          "explication": "Le président Cyril Ramaphosa est originaire de l'Afrique du Sud."
+        }
+      ]
+    }
+  ],
+  "niveau": "BAC",
+  "domaines": [
+    {
+      "domaine": "Culture Générale",
+      "questions": [
+        {
+          "question": "Qui a écrit le roman 'L'Étranger' ?",
+          "choix": [
+            "Albert Camus",
+            "Jean-Paul Sartre",
+            "Émile Zola",
+            "Victor Hugo"
+          ],
+          "reponse": "Albert Camus",
+          "explication": "'L'Étranger' est un roman écrit par Albert Camus en 1942."
+        },
+        {
+          "question": "En quelle année a eu lieu la Première Guerre mondiale ?",
+          "choix": ["1912", "1914", "1916", "1918"],
+          "reponse": "1914",
+          "explication": "La Première Guerre mondiale a commencé en 1914 et a duré jusqu'en 1918."
+        },
+        {
+          "question": "Quel est le nom de l'auteur de 'Cahiers de prison' ?",
+          "choix": [
+            "Jean-Paul Sartre",
+            "Bertolt Brecht",
+            "Antonio Gramsci",
+            "Albert Camus"
+          ],
+          "reponse": "Antonio Gramsci",
+          "explication": "'Cahiers de prison' est une œuvre de l'intellectuel italien Antonio Gramsci."
+        },
+        {
+          "question": "En quelle année la Charte des Nations Unies a-t-elle été signée ?",
+          "choix": ["1942", "1943", "1945", "1950"],
+          "reponse": "1945",
+          "explication": "La Charte des Nations Unies a été signée en 1945 après la fin de la Seconde Guerre mondiale."
+        },
+        {
+          "question": "Qui a inventé le téléphone ?",
+          "choix": [
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Alexander Graham Bell",
+            "Marconi"
+          ],
+          "reponse": "Alexander Graham Bell",
+          "explication": "Le téléphone a été inventé par Alexander Graham Bell en 1876."
+        }
+      ]
+    },
+    {
+      "domaine": "Mathématiques",
+      "questions": [
+        {
+          "question": "Quelle est la solution de l'équation 2x + 3 = 7 ?",
+          "choix": ["x = 1", "x = 2", "x = 3", "x = 4"],
+          "reponse": "x = 2",
+          "explication": "Résoudre 2x + 3 = 7 donne x = 2."
+        },
+        {
+          "question": "Calculer l'aire d'un cercle de rayon 5 cm.",
+          "choix": ["25π cm²", "50π cm²", "75π cm²", "100π cm²"],
+          "reponse": "25π cm²",
+          "explication": "L'aire d'un cercle est donnée par la formule A = πr², donc ici A = π * 5² = 25π cm²."
+        },
+        {
+          "question": "Si a = 4 et b = 3, quelle est la valeur de (a² + b²) ?",
+          "choix": ["16", "25", "12", "9"],
+          "reponse": "25",
+          "explication": "a² + b² = 4² + 3² = 16 + 9 = 25."
+        },
+        {
+          "question": "Résoudre l'équation suivante : 5x - 4 = 21.",
+          "choix": ["x = 4", "x = 5", "x = 6", "x = 7"],
+          "reponse": "x = 5",
+          "explication": "5x - 4 = 21. Résoudre donne x = 5."
+        },
+        {
+          "question": "Si une droite a pour équation y = 2x + 1, quel est son coefficient directeur ?",
+          "choix": ["1", "2", "3", "4"],
+          "reponse": "2",
+          "explication": "Dans l'équation y = 2x + 1, le coefficient directeur est 2."
+        }
+      ]
+    }
+  ],
+
+  "niveau": "Licence",
+  "domaines": [
+    {
+      "domaine": "Économie",
+      "questions": [
+        {
+          "question": "Quel est l'objectif principal de la politique monétaire ?",
+          "choix": [
+            "Réduire l'inflation",
+            "Réduire les taux d'intérêt",
+            "Augmenter l'emploi",
+            "Assurer une stabilité des prix"
+          ],
+          "reponse": "Assurer une stabilité des prix",
+          "explication": "L'objectif principal de la politique monétaire est d'assurer la stabilité des prix."
+        },
+        {
+          "question": "Qui est l'auteur de la théorie de la valeur-travail ?",
+          "choix": [
+            "Karl Marx",
+            "John Maynard Keynes",
+            "Adam Smith",
+            "David Ricardo"
+          ],
+          "reponse": "Adam Smith",
+          "explication": "Adam Smith est l'auteur de la théorie de la valeur-travail."
+        },
+        {
+          "question": "Quel est l'effet direct d'une dépréciation de la monnaie nationale ?",
+          "choix": [
+            "Augmentation de l'exportation",
+            "Réduction de l'inflation",
+            "Augmentation des importations",
+            "Diminution de la compétitivité"
+          ],
+          "reponse": "Augmentation de l'exportation",
+          "explication": "Une dépréciation de la monnaie nationale rend les produits du pays moins chers pour les étrangers, ce qui favorise les exportations."
+        },
+        {
+          "question": "Quel est l'indicateur principal pour mesurer la croissance économique d'un pays ?",
+          "choix": [
+            "Le taux de chômage",
+            "Le PIB",
+            "Le taux d'intérêt",
+            "Le taux de change"
+          ],
+          "reponse": "Le PIB",
+          "explication": "Le Produit Intérieur Brut (PIB) est l'indicateur principal utilisé pour mesurer la croissance économique d'un pays."
+        },
+        {
+          "question": "Qu'est-ce que l'inflation ?",
+          "choix": [
+            "L'augmentation de la masse monétaire",
+            "La baisse des prix",
+            "L'augmentation générale des prix",
+            "La baisse du taux de change"
+          ],
+          "reponse": "L'augmentation générale des prix",
+          "explication": "L'inflation est la hausse générale et continue des prix des biens et services dans une économie."
+        }
+      ]
+    },
+    {
+      "domaine": "Droit",
+      "questions": [
+        {
+          "question": "Quelle est la principale caractéristique d'un contrat de travail ?",
+          "choix": [
+            "La gratuité des services",
+            "L'existence d'un lien de subordination",
+            "La liberté de choisir son employeur",
+            "L'absence d'obligations légales"
+          ],
+          "reponse": "L'existence d'un lien de subordination",
+          "explication": "Un contrat de travail se distingue par l'existence d'un lien de subordination entre l'employeur et le salarié."
+        },
+        {
+          "question": "Quel principe est garanti par la Déclaration des droits de l'Homme et du citoyen de 1789 ?",
+          "choix": [
+            "La liberté d'expression",
+            "La liberté de religion",
+            "La liberté de travailler",
+            "La propriété"
+          ],
+          "reponse": "La liberté d'expression",
+          "explication": "La liberté d'expression est un droit fondamental garanti par la Déclaration des droits de l'Homme et du citoyen."
+        },
+        {
+          "question": "Dans quel cas un contrat peut-il être résilié de manière unilatérale par l'employeur ?",
+          "choix": [
+            "Lorsque le salarié est en congé",
+            "Lorsque l'employé est en infraction",
+            "En cas de faute grave",
+            "Lorsque l'employeur le souhaite"
+          ],
+          "reponse": "En cas de faute grave",
+          "explication": "Un contrat peut être résilié par l'employeur en cas de faute grave de l'employé."
+        },
+        {
+          "question": "Qu'est-ce qu'un contrat de société ?",
+          "choix": [
+            "Un contrat entre un employeur et un salarié",
+            "Un accord entre deux ou plusieurs personnes pour créer une entreprise",
+            "Un document de vente",
+            "Un accord entre une entreprise et ses clients"
+          ],
+          "reponse": "Un accord entre deux ou plusieurs personnes pour créer une entreprise",
+          "explication": "Un contrat de société est un accord entre deux ou plusieurs personnes pour créer une entreprise."
+        },
+        {
+          "question": "Que définit la Constitution d'un pays ?",
+          "choix": [
+            "Les lois fiscales",
+            "Les droits et devoirs des citoyens",
+            "Les contrats commerciaux",
+            "Les règles de succession"
+          ],
+          "reponse": "Les droits et devoirs des citoyens",
+          "explication": "La Constitution définit les droits et devoirs des citoyens ainsi que l'organisation et le fonctionnement des institutions publiques."
+        }
+      ]
+    },
+    {
+      "domaine": "Mathématiques",
+      "questions": [
+        {
+          "question": "Quelle est la dérivée de la fonction f(x) = 3x² + 2x - 1 ?",
+          "choix": ["6x + 2", "6x - 2", "3x + 2", "3x - 2"],
+          "reponse": "6x + 2",
+          "explication": "La dérivée de f(x) = 3x² + 2x - 1 est f'(x) = 6x + 2."
+        },
+        {
+          "question": "Calculer la somme des angles intérieurs d'un quadrilatère.",
+          "choix": ["180°", "360°", "270°", "540°"],
+          "reponse": "360°",
+          "explication": "La somme des angles intérieurs d'un quadrilatère est toujours égale à 360°."
+        },
+        {
+          "question": "Résoudre l'équation x² - 5x + 6 = 0.",
+          "choix": [
+            "x = 2 et x = 3",
+            "x = -2 et x = -3",
+            "x = 1 et x = 6",
+            "x = 2 et x = -3"
+          ],
+          "reponse": "x = 2 et x = 3",
+          "explication": "Les solutions de l'équation x² - 5x + 6 = 0 sont x = 2 et x = 3."
+        },
+        {
+          "question": "Quel est l'inverse de la matrice [3, 2; 1, 4] ?",
+          "choix": [
+            "[4, -2; -1, 3]",
+            "[3, -2; -1, 4]",
+            "[1, -2; -3, 4]",
+            "[4, -2; -3, 1]"
+          ],
+          "reponse": "[4, -2; -1, 3]",
+          "explication": "L'inverse de la matrice [3, 2; 1, 4] est [4, -2; -1, 3]."
+        },
+        {
+          "question": "Qu'est-ce qu'une fonction bijective ?",
+          "choix": [
+            "Une fonction injective",
+            "Une fonction surjective",
+            "Une fonction où chaque élément de l'ensemble de départ a une seule image dans l'ensemble d'arrivée",
+            "Une fonction où chaque élément de l'ensemble d'arrivée est l'image d'au moins un élément de l'ensemble de départ"
+          ],
+          "reponse": "Une fonction où chaque élément de l'ensemble de départ a une seule image dans l'ensemble d'arrivée",
+          "explication": "Une fonction bijective est une fonction qui est à la fois injective et surjective, c'est-à-dire que chaque élément de l'ensemble de départ a une seule image dans l'ensemble d'arrivée et chaque élément de l'ensemble d'arrivée est l'image d'un élément de l'ensemble de départ."
+        }
+      ]
+    }
+  ]
+}
