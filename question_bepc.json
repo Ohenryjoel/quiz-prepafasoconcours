@@ -1,0 +1,43 @@
+    {
+      "domain": "Culture Générale",
+      "questions": [
+        {
+          "questionText": "Qui a écrit l'œuvre 'Les Misérables' ?",
+          "choices": [
+            "Victor Hugo",
+            "Émile Zola",
+            "Molière",
+            "Albert Camus"
+          ],
+          "correctAnswer": "Victor Hugo",
+          "explanation": "L'œuvre 'Les Misérables' a été écrite par Victor Hugo."
+        },
+        {
+          "questionText": "En quelle année l'Empire romain a-t-il été fondé ?",
+          "choices": [
+            "27 av. J.-C.",
+            "49 av. J.-C.",
+            "500 av. J.-C.",
+            "1000 av. J.-C."
+          ],
+          "correctAnswer": "27 av. J.-C.",
+          "explanation": "L'Empire romain a été fondé en 27 avant Jésus-Christ sous le règne d'Auguste."
+        }
+      ]
+    },
+    {
+      "domain": "Mathématiques",
+      "questions": [
+        {
+          "questionText": "Quelle est la valeur de Pi approximativement ?",
+          "choices": [
+            "3.14",
+            "3.1415",
+            "3.14159",
+            "3.0"
+          ],
+          "correctAnswer": "3.14159",
+          "explanation": "Pi est approximativement égal à 3.14159."
+        }
+      ]
+    }
