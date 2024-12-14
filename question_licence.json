@@ -1,0 +1,171 @@
+{
+      "domain": "Économie",
+      "questions": [
+        {
+          "questionText": "Quel est l'objectif principal de la politique monétaire ?",
+          "choix": [
+            "Réduire l'inflation",
+            "Réduire les taux d'intérêt",
+            "Augmenter l'emploi",
+            "Assurer une stabilité des prix"
+          ],
+          "reponse": "Assurer une stabilité des prix",
+          "explication": "L'objectif principal de la politique monétaire est d'assurer la stabilité des prix."
+        },
+        {
+          "questionText": "Qui est l'auteur de la théorie de la valeur-travail ?",
+          "choix": [
+            "Karl Marx",
+            "John Maynard Keynes",
+            "Adam Smith",
+            "David Ricardo"
+          ],
+          "reponse": "Adam Smith",
+          "explication": "Adam Smith est l'auteur de la théorie de la valeur-travail."
+        },
+        {
+          "questionText": "Quel est l'effet direct d'une dépréciation de la monnaie nationale ?",
+          "choix": [
+            "Augmentation de l'exportation",
+            "Réduction de l'inflation",
+            "Augmentation des importations",
+            "Diminution de la compétitivité"
+          ],
+          "reponse": "Augmentation de l'exportation",
+          "explication": "Une dépréciation de la monnaie nationale rend les produits du pays moins chers pour les étrangers, ce qui favorise les exportations."
+        },
+        {
+          "questionText": "Quel est l'indicateur principal pour mesurer la croissance économique d'un pays ?",
+          "choix": [
+            "Le taux de chômage",
+            "Le PIB",
+            "Le taux d'intérêt",
+            "Le taux de change"
+          ],
+          "reponse": "Le PIB",
+          "explication": "Le Produit Intérieur Brut (PIB) est l'indicateur principal utilisé pour mesurer la croissance économique d'un pays."
+        },
+        {
+          "questionText": "Qu'est-ce que l'inflation ?",
+          "choix": [
+            "L'augmentation de la masse monétaire",
+            "La baisse des prix",
+            "L'augmentation générale des prix",
+            "La baisse du taux de change"
+          ],
+          "reponse": "L'augmentation générale des prix",
+          "explication": "L'inflation est la hausse générale et continue des prix des biens et services dans une économie."
+        }
+      ]
+},
+{
+      "domain": "Droit",
+      "questions": [
+        {
+          "questionText": "Quelle est la principale caractéristique d'un contrat de travail ?",
+          "choix": [
+            "La gratuité des services",
+            "L'existence d'un lien de subordination",
+            "La liberté de choisir son employeur",
+            "L'absence d'obligations légales"
+          ],
+          "reponse": "L'existence d'un lien de subordination",
+          "explication": "Un contrat de travail se distingue par l'existence d'un lien de subordination entre l'employeur et le salarié."
+        },
+        {
+          "questionText": "Quel principe est garanti par la Déclaration des droits de l'Homme et du citoyen de 1789 ?",
+          "choix": [
+            "La liberté d'expression",
+            "La liberté de religion",
+            "La liberté de travailler",
+            "La propriété"
+          ],
+          "reponse": "La liberté d'expression",
+          "explication": "La liberté d'expression est un droit fondamental garanti par la Déclaration des droits de l'Homme et du citoyen."
+        },
+        {
+          "questionText": "Dans quel cas un contrat peut-il être résilié de manière unilatérale par l'employeur ?",
+          "choix": [
+            "Lorsque le salarié est en congé",
+            "Lorsque l'employé est en infraction",
+            "En cas de faute grave",
+            "Lorsque l'employeur le souhaite"
+          ],
+          "reponse": "En cas de faute grave",
+          "explication": "Un contrat peut être résilié par l'employeur en cas de faute grave de l'employé."
+        },
+        {
+          "questionText": "Qu'est-ce qu'un contrat de société ?",
+          "choix": [
+            "Un contrat entre un employeur et un salarié",
+            "Un accord entre deux ou plusieurs personnes pour créer une entreprise",
+            "Un document de vente",
+            "Un accord entre une entreprise et ses clients"
+          ],
+          "reponse": "Un accord entre deux ou plusieurs personnes pour créer une entreprise",
+          "explication": "Un contrat de société est un accord entre deux ou plusieurs personnes pour créer une entreprise."
+        },
+        {
+          "questionText": "Que définit la Constitution d'un pays ?",
+          "choix": [
+            "Les lois fiscales",
+            "Les droits et devoirs des citoyens",
+            "Les contrats commerciaux",
+            "Les règles de succession"
+          ],
+          "reponse": "Les droits et devoirs des citoyens",
+          "explication": "La Constitution définit les droits et devoirs des citoyens ainsi que l'organisation et le fonctionnement des institutions publiques."
+        }
+      ]
+},
+{
+      "domain": "Mathématiques",
+      "questions": [
+        {
+          "questionText": "Quelle est la dérivée de la fonction f(x) = 3x² + 2x - 1 ?",
+          "choix": ["6x + 2", "6x - 2", "3x + 2", "3x - 2"],
+          "reponse": "6x + 2",
+          "explication": "La dérivée de f(x) = 3x² + 2x - 1 est f'(x) = 6x + 2."
+        },
+        {
+          "questionText": "Calculer la somme des angles intérieurs d'un quadrilatère.",
+          "choix": ["180°", "360°", "270°", "540°"],
+          "reponse": "360°",
+          "explication": "La somme des angles intérieurs d'un quadrilatère est toujours égale à 360°."
+        },
+        {
+          "questionText": "Résoudre l'équation x² - 5x + 6 = 0.",
+          "choix": [
+            "x = 2 et x = 3",
+            "x = -2 et x = -3",
+            "x = 1 et x = 6",
+            "x = 2 et x = -3"
+          ],
+          "reponse": "x = 2 et x = 3",
+          "explication": "Les solutions de l'équation x² - 5x + 6 = 0 sont x = 2 et x = 3."
+        },
+        {
+          "questionText": "Quel est l'inverse de la matrice [3, 2; 1, 4] ?",
+          "choix": [
+            "[4, -2; -1, 3]",
+            "[3, -2; -1, 4]",
+            "[1, -2; -3, 4]",
+            "[4, -2; -3, 1]"
+          ],
+          "reponse": "[4, -2; -1, 3]",
+          "explication": "L'inverse de la matrice [3, 2; 1, 4] est [4, -2; -1, 3]."
+        },
+        {
+          "questionText": "Qu'est-ce qu'une fonction bijective ?",
+          "choix": [
+            "Une fonction injective",
+            "Une fonction surjective",
+            "Une fonction où chaque élément de l'ensemble de départ a une seule image dans l'ensemble d'arrivée",
+            "Une fonction où chaque élément de l'ensemble d'arrivée est l'image d'au moins un élément de l'ensemble de départ"
+          ],
+          "reponse": "Une fonction où chaque élément de l'ensemble de départ a une seule image dans l'ensemble d'arrivée",
+          "explication": "Une fonction bijective est une fonction qui est à la fois injective et surjective, c'est-à-dire que chaque élément de l'ensemble de départ a une seule image dans l'ensemble d'arrivée et chaque élément de l'ensemble d'arrivée est l'image d'un élément de l'ensemble de départ."
+        }
+      ]
+}
+
