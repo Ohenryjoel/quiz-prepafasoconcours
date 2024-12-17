@@ -1,86 +1,87 @@
-    {
-      "domain": "Culture Générale",
-      "questions": [
-        {
-          "questionText": "Qui a écrit le roman 'L'Étranger' ?",
-          "choices": [
-            "Albert Camus",
-            "Jean-Paul Sartre",
-            "Émile Zola",
-            "Victor Hugo"
-          ],
-          "correctAnswer": "Albert Camus",
-          "explanation": "'L'Étranger' est un roman écrit par Albert Camus en 1942."
-        },
-        {
-          "questionText": "En quelle année a eu lieu la Première Guerre mondiale ?",
-          "choices": ["1912", "1914", "1916", "1918"],
-          "correctAnswer": "1914",
-          "explanation": "La Première Guerre mondiale a commencé en 1914 et a duré jusqu'en 1918."
-        },
-        {
-          "questionText": "Quel est le nom de l'auteur de 'Cahiers de prison' ?",
-          "choices": [
-            "Jean-Paul Sartre",
-            "Bertolt Brecht",
-            "Antonio Gramsci",
-            "Albert Camus"
-          ],
-          "correctAnswer": "Antonio Gramsci",
-          "explanation": "'Cahiers de prison' est une œuvre de l'intellectuel italien Antonio Gramsci."
-        },
-        {
-          "questionText": "En quelle année la Charte des Nations Unies a-t-elle été signée ?",
-          "choices": ["1942", "1943", "1945", "1950"],
-          "correctAnswer": "1945",
-          "explanation": "La Charte des Nations Unies a été signée en 1945 après la fin de la Seconde Guerre mondiale."
-        },
-        {
-          "questionText": "Qui a inventé le téléphone ?",
-          "choices": [
-            "Thomas Edison",
-            "Nikola Tesla",
-            "Alexander Graham Bell",
-            "Marconi"
-          ],
-          "correctAnswer": "Alexander Graham Bell",
-          "explanation": "Le téléphone a été inventé par Alexander Graham Bell en 1876."
-        }
-      ]
-    },
-    {
-      "domain": "Mathématiques",
-      "questions": [
-        {
-          "questionText": "Quelle est la solution de l'équation 2x + 3 = 7 ?",
-          "choices": ["x = 1", "x = 2", "x = 3", "x = 4"],
-          "correctAnswer": "x = 2",
-          "explanation": "Résoudre 2x + 3 = 7 donne x = 2."
-        },
-        {
-          "questionText": "Calculer l'aire d'un cercle de rayon 5 cm.",
-          "choices": ["25π cm²", "50π cm²", "75π cm²", "100π cm²"],
-          "correctAnswer": "25π cm²",
-          "explanation": "L'aire d'un cercle est donnée par la formule A = πr², donc ici A = π * 5² = 25π cm²."
-        },
-        {
-          "questionText": "Si a = 4 et b = 3, quelle est la valeur de (a² + b²) ?",
-          "choices": ["16", "25", "12", "9"],
-          "correctAnswer": "25",
-          "explanation": "a² + b² = 4² + 3² = 16 + 9 = 25."
-        },
-        {
-          "questionText": "Résoudre l'équation suivante : 5x - 4 = 21.",
-          "choices": ["x = 4", "x = 5", "x = 6", "x = 7"],
-          "correctAnswer": "x = 5",
-          "explanation": "5x - 4 = 21. Résoudre donne x = 5."
-        },
-        {
-          "questionText": "Si une droite a pour équation y = 2x + 1, quel est son coefficient directeur ?",
-          "choices": ["1", "2", "3", "4"],
-          "correctAnswer": "2",
-          "explanation": "Dans l'équation y = 2x + 1, le coefficient directeur est 2."
-        }
-      ]
-    }
- 
+[
+  {
+    "domain": "Culture Générale",
+    "questions": [
+      {
+        "questionText": "Qui a écrit le roman 'L'Étranger' ?",
+        "choices": [
+          "Albert Camus",
+          "Jean-Paul Sartre",
+          "Émile Zola",
+          "Victor Hugo"
+        ],
+        "correctAnswer": "Albert Camus",
+        "explanation": "'L'Étranger' est un roman écrit par Albert Camus en 1942."
+      },
+      {
+        "questionText": "En quelle année a eu lieu la Première Guerre mondiale ?",
+        "choices": ["1912", "1914", "1916", "1918"],
+        "correctAnswer": "1914",
+        "explanation": "La Première Guerre mondiale a commencé en 1914 et a duré jusqu'en 1918."
+      },
+      {
+        "questionText": "Quel est le nom de l'auteur de 'Cahiers de prison' ?",
+        "choices": [
+          "Jean-Paul Sartre",
+          "Bertolt Brecht",
+          "Antonio Gramsci",
+          "Albert Camus"
+        ],
+        "correctAnswer": "Antonio Gramsci",
+        "explanation": "'Cahiers de prison' est une œuvre de l'intellectuel italien Antonio Gramsci."
+      },
+      {
+        "questionText": "En quelle année la Charte des Nations Unies a-t-elle été signée ?",
+        "choices": ["1942", "1943", "1945", "1950"],
+        "correctAnswer": "1945",
+        "explanation": "La Charte des Nations Unies a été signée en 1945 après la fin de la Seconde Guerre mondiale."
+      },
+      {
+        "questionText": "Qui a inventé le téléphone ?",
+        "choices": [
+          "Thomas Edison",
+          "Nikola Tesla",
+          "Alexander Graham Bell",
+          "Marconi"
+        ],
+        "correctAnswer": "Alexander Graham Bell",
+        "explanation": "Le téléphone a été inventé par Alexander Graham Bell en 1876."
+      }
+    ]
+  },
+  {
+    "domain": "Mathématiques",
+    "questions": [
+      {
+        "questionText": "Quelle est la solution de l'équation 2x + 3 = 7 ?",
+        "choices": ["x = 1", "x = 2", "x = 3", "x = 4"],
+        "correctAnswer": "x = 2",
+        "explanation": "Résoudre 2x + 3 = 7 donne x = 2."
+      },
+      {
+        "questionText": "Calculer l'aire d'un cercle de rayon 5 cm.",
+        "choices": ["25π cm²", "50π cm²", "75π cm²", "100π cm²"],
+        "correctAnswer": "25π cm²",
+        "explanation": "L'aire d'un cercle est donnée par la formule A = πr², donc ici A = π * 5² = 25π cm²."
+      },
+      {
+        "questionText": "Si a = 4 et b = 3, quelle est la valeur de (a² + b²) ?",
+        "choices": ["16", "25", "12", "9"],
+        "correctAnswer": "25",
+        "explanation": "a² + b² = 4² + 3² = 16 + 9 = 25."
+      },
+      {
+        "questionText": "Résoudre l'équation suivante : 5x - 4 = 21.",
+        "choices": ["x = 4", "x = 5", "x = 6", "x = 7"],
+        "correctAnswer": "x = 5",
+        "explanation": "5x - 4 = 21. Résoudre donne x = 5."
+      },
+      {
+        "questionText": "Si une droite a pour équation y = 2x + 1, quel est son coefficient directeur ?",
+        "choices": ["1", "2", "3", "4"],
+        "correctAnswer": "2",
+        "explanation": "Dans l'équation y = 2x + 1, le coefficient directeur est 2."
+      }
+    ]
+  }
+]
