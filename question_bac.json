@@ -1,5 +1,246 @@
 [
   {
+  "domain": "Actualité Nationale",
+  "questions": [
+        {
+      "questionText": "Quel événement politique a déclenché la crise au Mali en 2021 ?",
+      "choices": [
+        "Un coup d'État militaire",
+        "Des élections contestées",
+        "Une rébellion séparatiste",
+        "Un conflit frontalier avec la Mauritanie"
+      ],
+      "correctAnswer": "Un coup d'État militaire",
+      "explanation": "Le Mali a connu un coup d'État militaire en août 2020, qui a renversé le président Ibrahim Boubacar Keïta. Ce coup d'État a déclenché une série de crises politiques et sociales dans le pays."
+    },
+    {
+      "questionText": "Quel est le nom de la nouvelle organisation économique regroupant les pays de la sous-région du Sahel ?",
+      "choices": [
+        "G5 Sahel",
+        "CEMAC",
+        "ECOWAS",
+        "UA"
+      ],
+      "correctAnswer": "G5 Sahel",
+      "explanation": "Le G5 Sahel est une organisation régionale qui regroupe cinq pays du Sahel : le Burkina Faso, le Mali, le Niger, le Tchad et la Mauritanie. Elle a pour objectif de lutter contre les défis communs de sécurité et de développement."
+    },
+    {
+      "questionText": "En 2023, quel pays a annoncé son intention de quitter la Cour Pénale Internationale (CPI) ?",
+      "choices": [
+        "États-Unis",
+        "Soudan",
+        "Burundi",
+        "Rwanda"
+      ],
+      "correctAnswer": "Burundi",
+      "explanation": "Le Burundi a annoncé en 2017 son intention de quitter la Cour Pénale Internationale après que cette dernière ait ouvert une enquête sur des allégations de crimes de guerre dans le pays."
+    },
+    {
+      "questionText": "Quel est le principal défi auquel le Burkina Faso fait face en 2023 ?",
+      "choices": [
+        "La crise alimentaire",
+        "La guerre contre les groupes jihadistes",
+        "La pauvreté",
+        "La gestion des ressources naturelles"
+      ],
+      "correctAnswer": "La guerre contre les groupes jihadistes",
+      "explanation": "Le Burkina Faso fait face à une grave crise sécuritaire en raison des attaques répétées de groupes jihadistes opérant dans le Sahel."
+    },
+    {
+      "questionText": "Quel est le nom du président de la transition au Burkina Faso, élu en 2022 ?",
+      "choices": [
+        "Roch Marc Christian Kaboré",
+        "Ibrahim Traoré",
+        "Paul-Henri Sandaogo Damiba",
+        "Thomas Sankara"
+      ],
+      "correctAnswer": "Ibrahim Traoré",
+      "explanation": "Ibrahim Traoré est le président actuel du Burkina Faso, ayant pris le pouvoir lors d'un coup d'État militaire en septembre 2022."
+    },
+    {
+      "questionText": "Quel groupe terroriste est principalement responsable des attaques au Burkina Faso ?",
+      "choices": [
+        "Al-Qaïda",
+        "Daesh",
+        "Boko Haram",
+        "L'État Islamique du Grand Sahara (EIGS)"
+      ],
+      "correctAnswer": "L'État Islamique du Grand Sahara (EIGS)",
+      "explanation": "L'EIGS est responsable de nombreuses attaques violentes au Burkina Faso et dans les pays voisins du Sahel."
+    },
+    {
+      "questionText": "Quel est le nom de la principale organisation de la société civile qui milite pour la paix au Burkina Faso ?",
+      "choices": [
+        "Le Balai Citoyen",
+        "Le Mouvement Burkinabè des Droits de l'Homme",
+        "Le Front Patriotique",
+        "Les Forces Vives"
+      ],
+      "correctAnswer": "Le Balai Citoyen",
+      "explanation": "Le Balai Citoyen est un mouvement citoyen qui lutte pour la démocratie, les droits de l'homme et la paix au Burkina Faso."
+    },
+        {
+      "questionText": "En 2023, quel est le principal objectif du gouvernement de Transition du Burkina Faso ?",
+      "choices": [
+        "L'élimination des groupes jihadistes",
+        "La restauration de la démocratie",
+        "La réconciliation nationale",
+        "La construction d'infrastructures"
+      ],
+      "correctAnswer": "L'élimination des groupes jihadistes",
+      "explanation": "L'un des principaux objectifs du gouvernement de transition dirigé par Ibrahim Traoré est de combattre les groupes jihadistes et de restaurer la sécurité dans tout le pays."
+    },
+    {
+      "questionText": "Quel a été l'impact du coup d'État de 2022 sur la coopération avec la France ?",
+      "choices": [
+        "La France a renforcé son soutien militaire",
+        "La coopération militaire a été suspendue",
+        "La France a envoyé des troupes supplémentaires",
+        "Les relations diplomatiques ont été renforcées"
+      ],
+      "correctAnswer": "La coopération militaire a été suspendue",
+      "explanation": "Après le coup d'État militaire de 2022, la coopération militaire entre le Burkina Faso et la France a été suspendue, et les troupes françaises ont été contraintes de quitter le pays."
+    },
+    {
+      "questionText": "Quel pays a envoyé une mission de soutien pour lutter contre les attaques terroristes au Burkina Faso en 2022 ?",
+      "choices": [
+        "Mali",
+        "Côte d'Ivoire",
+        "Ghana",
+        "Niger"
+      ],
+      "correctAnswer": "Niger",
+      "explanation": "En 2022, le Niger a envoyé une mission de soutien pour lutter contre les attaques terroristes, en renforçant sa coopération avec le Burkina Faso dans le domaine de la sécurité."
+    },
+      {
+      "questionText": "Quel événement a marqué la fin du mandat de Roch Marc Christian Kaboré en 2022 ?",
+      "choices": [
+        "Un coup d'État militaire",
+        "Des élections libres",
+        "Une démission volontaire",
+        "Un conflit avec la France"
+      ],
+      "correctAnswer": "Un coup d'État militaire",
+      "explanation": "Le 24 janvier 2022, un coup d'État militaire a renversé le président Roch Marc Christian Kaboré, en raison de son incapacité à gérer la crise sécuritaire dans le pays."
+    },
+    {
+      "questionText": "Quel est le principal défi de sécurité actuel au Burkina Faso ?",
+      "choices": [
+        "La guerre avec le Mali",
+        "Les attaques terroristes des groupes jihadistes",
+        "Les tensions avec la Côte d'Ivoire",
+        "Les problèmes de réfugiés"
+      ],
+      "correctAnswer": "Les attaques terroristes des groupes jihadistes",
+      "explanation": "Le Burkina Faso fait face à des attaques croissantes de groupes jihadistes liés à Al-Qaïda et à l'État islamique, qui menacent la stabilité du pays."
+    },
+    {
+      "questionText": "Quel est le nom du mouvement populaire qui a contribué à l'ascension de Thomas Sankara en 1983 ?",
+      "choices": [
+        "La Révolution Démocratique et Populaire (RDP)",
+        "Le Mouvement de Libération Populaire (MLP)",
+        "Le Conseil National de la Révolution (CNR)",
+        "Le Front Patriotique"
+      ],
+      "correctAnswer": "Le Conseil National de la Révolution (CNR)",
+      "explanation": "Le Conseil National de la Révolution (CNR) a été fondé par Thomas Sankara après sa prise de pouvoir en 1983, un moment charnière de l'histoire du Burkina Faso."
+    }
+  ]
+},
+{
+  "domain": "Actualité Internationale",
+  "questions": [
+    {
+      "questionText": "Quel pays a été le plus touché par le changement climatique selon le Global Climate Risk Index 2022 ?",
+      "choices": [
+        "Afghanistan",
+        "Philippines",
+        "Vanuatu",
+        "Pakistan"
+      ],
+      "correctAnswer": "Pakistan",
+      "explanation": "Le Pakistan a été désigné comme le pays le plus touché par le changement climatique en 2022, avec des inondations catastrophiques ayant affecté des millions de personnes."
+    },
+    {
+      "questionText": "En 2022, quel sommet international a rassemblé les leaders mondiaux pour discuter de la crise climatique ?",
+      "choices": [
+        "COP26",
+        "COP27",
+        "G20",
+        "ONU 2022"
+      ],
+      "correctAnswer": "COP27",
+      "explanation": "La COP27, tenue en Égypte en 2022, a réuni les leaders mondiaux pour discuter des mesures à prendre pour lutter contre le changement climatique."
+    },
+    {
+      "questionText": "Quel est le principal objectif des accords de Paris sur le climat ?",
+      "choices": [
+        "Réduire les émissions de gaz à effet de serre de 30 % d'ici 2030",
+        "Limiter le réchauffement global à 2°C par rapport aux niveaux préindustriels",
+        "Assurer la transition énergétique vers le nucléaire",
+        "Réduire les émissions des véhicules à essence"
+      ],
+      "correctAnswer": "Limiter le réchauffement global à 2°C par rapport aux niveaux préindustriels",
+      "explanation": "L'accord de Paris sur le climat vise à limiter le réchauffement global à 2°C au-dessus des niveaux préindustriels, avec un objectif de 1,5°C."
+    },
+        {
+      "questionText": "Quel pays a récemment annoncé la découverte de la première fusion nucléaire à énergie nette positive ?",
+      "choices": [
+        "États-Unis",
+        "Chine",
+        "France",
+        "Royaume-Uni"
+      ],
+      "correctAnswer": "États-Unis",
+      "explanation": "En décembre 2022, les États-Unis ont annoncé avoir réussi un test de fusion nucléaire à énergie nette positive, marquant un grand progrès dans la recherche sur l'énergie propre et la fusion nucléaire."
+    },
+    {
+      "questionText": "Quel a été le principal sujet des élections législatives en Israël en 2023 ?",
+      "choices": [
+        "La réforme judiciaire",
+        "Les droits des minorités",
+        "Le conflit israélo-palestinien",
+        "Les relations avec l'Iran"
+      ],
+      "correctAnswer": "La réforme judiciaire",
+      "explanation": "Les élections législatives israéliennes en 2023 ont été largement dominées par les débats autour de la réforme judiciaire proposée par le gouvernement, qui a suscité des manifestations massives dans le pays."
+    },
+    {
+      "questionText": "Quel pays a été frappé par un tremblement de terre dévastateur en 2023, faisant des milliers de morts ?",
+      "choices": [
+        "Turquie",
+        "Syrie",
+        "Indonésie",
+        "Haïti"
+      ],
+      "correctAnswer": "Turquie",
+      "explanation": "En février 2023, un tremblement de terre de magnitude 7.8 a frappé la Turquie et la Syrie, causant des milliers de morts et des destructions massives dans la région."
+    },
+    {
+      "questionText": "Quel a été le principal sujet de la conférence annuelle de Davos en 2023 ?",
+      "choices": [
+        "Le changement climatique",
+        "Les inégalités économiques mondiales",
+        "La guerre en Ukraine",
+        "La technologie et l'IA"
+      ],
+      "correctAnswer": "La guerre en Ukraine",
+      "explanation": "La conférence de Davos 2023 a principalement porté sur la guerre en Ukraine, ses impacts économiques mondiaux, ainsi que sur les questions de sécurité et de reconstruction post-guerre."
+    },
+    {
+      "questionText": "En 2023, quel pays a signé un accord historique pour rejoindre l'Union Européenne ?",
+      "choices": [
+        "Ukraine",
+        "Albanie",
+        "Kosovo",
+        "Serbie"
+      ],
+      "correctAnswer": "Ukraine",
+      "explanation": "En 2023, l'Ukraine a officiellement signé un accord historique pour rejoindre l'Union Européenne, marquant un tournant dans son rapprochement avec l'Europe après l'invasion russe."
+    }
+  ]
+},
+  {
     "domain": "Culture Générale",
     "questions": [
       {
