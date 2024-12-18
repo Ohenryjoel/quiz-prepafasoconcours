@@ -34,7 +34,40 @@
         ],
         "correctAnswer": "Empire Mossi",
         "explanation": "L'Empire Mossi était un royaume influent qui a dominé une grande partie de la région avant la colonisation."
-      }
+      },
+          {
+      "questionText": "Qui a écrit l'ouvrage 'L'Insoutenable légèreté de l'être' ?",
+      "choices": [
+        "Albert Camus",
+        "Milan Kundera",
+        "Jean-Paul Sartre",
+        "Simone de Beauvoir"
+      ],
+      "correctAnswer": "Milan Kundera",
+      "explanation": "L'Insoutenable légèreté de l'être est un roman écrit par Milan Kundera en 1984."
+    },
+    {
+      "questionText": "Quel est le plus grand pays d'Afrique en superficie ?",
+      "choices": [
+        "Nigeria",
+        "Algérie",
+        "République Démocratique du Congo",
+        "Soudan"
+      ],
+      "correctAnswer": "Algérie",
+      "explanation": "L'Algérie est le plus grand pays d'Afrique avec une superficie d'environ 2,38 millions de km²."
+    },
+    {
+      "questionText": "En quelle année le Burkina Faso a-t-il changé de nom, passant de Haute-Volta à Burkina Faso ?",
+      "choices": [
+        "1960",
+        "1983",
+        "1987",
+        "1990"
+      ],
+      "correctAnswer": "1984",
+      "explanation": "Le pays a changé de nom en 1984 sous la présidence de Thomas Sankara."
+    }
     ]
   },
   {
@@ -72,7 +105,40 @@
         ],
         "correctAnswer": "300",
         "explanation": "25 × 12 = 300."
-      }
+      },
+          {
+      "questionText": "Résoudre l'équation suivante : 3x + 7 = 16",
+      "choices": [
+        "x = 3",
+        "x = 5",
+        "x = 2",
+        "x = 7"
+      ],
+      "correctAnswer": "x = 3",
+      "explanation": "En isolant x, on obtient : 3x = 16 - 7, soit 3x = 9, donc x = 9 ÷ 3 = 3."
+    },
+    {
+      "questionText": "Quel est le produit de 12 et 15 ?",
+      "choices": [
+        "120",
+        "150",
+        "180",
+        "200"
+      ],
+      "correctAnswer": "180",
+      "explanation": "Le produit de 12 et 15 est 12 × 15 = 180."
+    },
+    {
+      "questionText": "Si l'aire d'un carré est de 36 cm², quelle est la longueur de ses côtés ?",
+      "choices": [
+        "6 cm",
+        "12 cm",
+        "36 cm",
+        "3 cm"
+      ],
+      "correctAnswer": "6 cm",
+      "explanation": "L'aire d'un carré est égale à côté². Donc, 6² = 36 cm²."
+    }
     ]
   },
   {
@@ -113,6 +179,40 @@
       }
     ]
   },
+      {
+      "questionText": "Quel organe humain produit l'insuline ?",
+      "choices": [
+        "Le foie",
+        "Le pancréas",
+        "Les reins",
+        "L'estomac"
+      ],
+      "correctAnswer": "Le pancréas",
+      "explanation": "L'insuline est produite par le pancréas, une glande située près de l'estomac."
+    },
+    {
+      "questionText": "Quel est le rôle des globules rouges dans le corps humain ?",
+      "choices": [
+        "Transporter l'oxygène",
+        "Combattre les infections",
+        "Aider à la digestion",
+        "Produire des anticorps"
+      ],
+      "correctAnswer": "Transporter l'oxygène",
+      "explanation": "Les globules rouges transportent l'oxygène des poumons vers les tissus et organes du corps."
+    },
+    {
+      "questionText": "Quelle est la principale source d'énergie de la cellule ?",
+      "choices": [
+        "L'oxygène",
+        "Le glucose",
+        "Les lipides",
+        "Les protéines"
+      ],
+      "correctAnswer": "Le glucose",
+      "explanation": "Le glucose est la principale source d'énergie pour la cellule, utilisée dans le métabolisme cellulaire."
+    }
+
   {
     "domain": "Histoire",
     "questions": [
@@ -137,7 +237,78 @@
         ],
         "correctAnswer": "Thomas Sankara",
         "explanation": "Thomas Sankara a pris le pouvoir lors du coup d'État de 1983 et a dirigé le pays sous le régime du Conseil National de la Révolution (CNR)."
-      }
+      },
+          {
+      "questionText": "Qui a fondé l'Empire de Mali ?",
+      "choices": [
+        "Sundiata Keita",
+        "Mansa Moussa",
+        "Ibrahim Boubacar Keïta",
+        "Cheikh Anta Diop"
+      ],
+      "correctAnswer": "Sundiata Keita",
+      "explanation": "Sundiata Keita est le fondateur de l'Empire du Mali, établi au XIIIe siècle."
+    },
+    {
+      "questionText": "Quel événement historique a eu lieu en 1789 en France ?",
+      "choices": [
+        "La Révolution française",
+        "La Déclaration des droits de l'homme",
+        "La prise de la Bastille",
+        "Tous les choix ci-dessus"
+      ],
+      "correctAnswer": "Tous les choix ci-dessus",
+      "explanation": "La Révolution française en 1789 a vu l'adoption de la Déclaration des droits de l'homme et la prise de la Bastille, marquant un tournant dans l'histoire."
+    },
+    {
+      "questionText": "Quel fut le nom du dernier empereur du Japon avant la Seconde Guerre mondiale ?",
+      "choices": [
+        "Hirohito",
+        "Akihito",
+        "Yoshihito",
+        "Meiji"
+      ],
+      "correctAnswer": "Hirohito",
+      "explanation": "Hirohito fut le dernier empereur du Japon avant la Seconde Guerre mondiale et a régné de 1926 à 1989."
+    }
     ]
-  }
+  },
+  {
+  "domain": "Géographie",
+  "questions": [
+    {
+      "questionText": "Quel est le plus grand désert du monde ?",
+      "choices": [
+        "Le Sahara",
+        "Le désert de Gobi",
+        "L'Antarctique",
+        "Le désert de Kalahari"
+      ],
+      "correctAnswer": "L'Antarctique",
+      "explanation": "L'Antarctique est le plus grand désert du monde en termes de superficie, bien que ce soit un désert froid."
+    },
+    {
+      "questionText": "Quel est le plus grand océan du monde ?",
+      "choices": [
+        "L'océan Atlantique",
+        "L'océan Indien",
+        "L'océan Arctique",
+        "L'océan Pacifique"
+      ],
+      "correctAnswer": "L'océan Pacifique",
+      "explanation": "L'océan Pacifique est le plus grand océan du monde, couvrant environ 63 millions de km²."
+    },
+    {
+      "questionText": "Combien de continents y a-t-il dans le monde ?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "7",
+      "explanation": "Il y a sept continents : l'Afrique, l'Antarctique, l'Asie, l'Europe, l'Amérique du Nord, l'Amérique du Sud et l'Océanie."
+    }
+  ]
+}
 ]
