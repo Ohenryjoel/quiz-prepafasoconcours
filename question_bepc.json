@@ -3,26 +3,37 @@
     "domain": "Culture Générale",
     "questions": [
       {
-        "questionText": "Qui a écrit l'œuvre 'Les Misérables' ?",
+        "questionText": "Qui est le premier président de la République du Burkina Faso ?",
         "choices": [
-          "Victor Hugo",
-          "Émile Zola",
-          "Molière",
-          "Albert Camus"
+          "Thomas Sankara",
+          "Blaise Compaoré",
+          "Maurice Yaméogo",
+          "Jean-Baptiste Ouédraogo"
         ],
-        "correctAnswer": "Victor Hugo",
-        "explanation": "L'œuvre 'Les Misérables' a été écrite par Victor Hugo."
+        "correctAnswer": "Maurice Yaméogo",
+        "explanation": "Maurice Yaméogo a été le premier président du Burkina Faso, élu en 1960 après l'indépendance du pays."
       },
       {
-        "questionText": "En quelle année l'Empire romain a-t-il été fondé ?",
+        "questionText": "Quel est le fleuve principal du Burkina Faso ?",
         "choices": [
-          "27 av. J.-C.",
-          "49 av. J.-C.",
-          "500 av. J.-C.",
-          "1000 av. J.-C."
+          "Le Nil",
+          "Le Niger",
+          "La Volta",
+          "Le Zambèze"
         ],
-        "correctAnswer": "27 av. J.-C.",
-        "explanation": "L'Empire romain a été fondé en 27 avant Jésus-Christ sous le règne d'Auguste."
+        "correctAnswer": "La Volta",
+        "explanation": "La Volta est le principal fleuve du Burkina Faso, et il se divise en plusieurs bras : la Volta noire, la Volta blanche et la Volta rouge."
+      },
+      {
+        "questionText": "Quel est le nom du célèbre empire qui a existé au Burkina Faso avant la colonisation française ?",
+        "choices": [
+          "Empire Ashanti",
+          "Empire du Ghana",
+          "Empire Mossi",
+          "Empire Songhaï"
+        ],
+        "correctAnswer": "Empire Mossi",
+        "explanation": "L'Empire Mossi était un royaume influent qui a dominé une grande partie de la région avant la colonisation."
       }
     ]
   },
@@ -30,15 +41,102 @@
     "domain": "Mathématiques",
     "questions": [
       {
-        "questionText": "Quelle est la valeur de Pi approximativement ?",
+        "questionText": "Si un cercle a un rayon de 5 cm, quelle est sa circonférence ? (Utilisez Pi ≈ 3.14)",
         "choices": [
-          "3.14",
-          "3.1415",
-          "3.14159",
-          "3.0"
+          "10 cm",
+          "15.7 cm",
+          "31.4 cm",
+          "50 cm"
         ],
-        "correctAnswer": "3.14159",
-        "explanation": "Pi est approximativement égal à 3.14159."
+        "correctAnswer": "31.4 cm",
+        "explanation": "La formule de la circonférence d'un cercle est C = 2 * Pi * r. Ici, C = 2 * 3.14 * 5 = 31.4 cm."
+      },
+      {
+        "questionText": "Résolvez l'équation suivante : 5x - 7 = 18",
+        "choices": [
+          "x = 3",
+          "x = 5",
+          "x = 25",
+          "x = 7"
+        ],
+        "correctAnswer": "x = 5",
+        "explanation": "En ajoutant 7 des deux côtés, on obtient 5x = 25, puis en divisant par 5, on trouve x = 5."
+      },
+      {
+        "questionText": "Quel est le produit de 25 × 12 ?",
+        "choices": [
+          "250",
+          "300",
+          "350",
+          "400"
+        ],
+        "correctAnswer": "300",
+        "explanation": "25 × 12 = 300."
+      }
+    ]
+  },
+  {
+    "domain": "Sciences",
+    "questions": [
+      {
+        "questionText": "Quelle est la fonction principale du cœur humain ?",
+        "choices": [
+          "Pomper le sang",
+          "Produire de l'oxygène",
+          "Réguler la température corporelle",
+          "Stocker les nutriments"
+        ],
+        "correctAnswer": "Pomper le sang",
+        "explanation": "Le cœur est responsable de la circulation sanguine dans le corps humain en pompant le sang vers les organes et les tissus."
+      },
+      {
+        "questionText": "Quel est le plus grand organe du corps humain ?",
+        "choices": [
+          "Le cerveau",
+          "Le foie",
+          "La peau",
+          "Les poumons"
+        ],
+        "correctAnswer": "La peau",
+        "explanation": "La peau est le plus grand organe du corps humain en termes de surface, recouvrant tout le corps."
+      },
+      {
+        "questionText": "Qu'est-ce qui est produit lors de la photosynthèse ?",
+        "choices": [
+          "De l'oxygène et du glucose",
+          "De l'azote et du dioxyde de carbone",
+          "Du dioxyde de carbone et de l'eau",
+          "De l'hydrogène et du sucre"
+        ],
+        "correctAnswer": "De l'oxygène et du glucose",
+        "explanation": "La photosynthèse est le processus par lequel les plantes produisent de l'oxygène et du glucose en utilisant la lumière, l'eau et le dioxyde de carbone."
+      }
+    ]
+  },
+  {
+    "domain": "Histoire",
+    "questions": [
+      {
+        "questionText": "En quelle année le Burkina Faso a-t-il obtenu son indépendance de la France ?",
+        "choices": [
+          "1958",
+          "1960",
+          "1965",
+          "1970"
+        ],
+        "correctAnswer": "1960",
+        "explanation": "Le Burkina Faso a obtenu son indépendance le 5 août 1960, après une longue période de colonisation française."
+      },
+      {
+        "questionText": "Qui était le leader du Conseil National de la Révolution (CNR) après le coup d'État de 1983 au Burkina Faso ?",
+        "choices": [
+          "Blaise Compaoré",
+          "Thomas Sankara",
+          "Jean-Baptiste Ouédraogo",
+          "Seydou Diarra"
+        ],
+        "correctAnswer": "Thomas Sankara",
+        "explanation": "Thomas Sankara a pris le pouvoir lors du coup d'État de 1983 et a dirigé le pays sous le régime du Conseil National de la Révolution (CNR)."
       }
     ]
   }
