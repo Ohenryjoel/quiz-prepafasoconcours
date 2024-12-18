@@ -440,28 +440,6 @@
   {
     "domain": "Sciences",
     "questions": [
-          {
-      "questionText": "Si une réaction chimique libère de l'énergie, elle est dite :",
-      "choices": [
-        "Endothermique",
-        "Exothermique",
-        "Isotherme",
-        "Aucune de ces réponses"
-      ],
-      "correctAnswer": "Exothermique",
-      "explanation": "Une réaction exothermique est une réaction qui libère de l'énergie sous forme de chaleur ou de lumière."
-    },
-    {
-      "questionText": "Quel est le nom de la première loi de Newton, qui décrit le mouvement des objets ?",
-      "choices": [
-        "Loi de l'inertie",
-        "Loi de la gravitation universelle",
-        "Loi de l'action et de la réaction",
-        "Loi de l'accélération"
-      ],
-      "correctAnswer": "Loi de l'inertie",
-      "explanation": "La première loi de Newton, appelée la loi de l'inertie, stipule qu'un objet au repos reste au repos et un objet en mouvement continue de se déplacer à vitesse constante à moins qu'une force extérieure n'agisse sur lui."
-    },
       {
         "questionText": "Quelle est la fonction principale du cœur humain ?",
         "choices": [
