@@ -291,6 +291,99 @@
     ]
   },
   {
+    "domain": "sciences",
+    "questions": [
+      {
+  "questionText": "Si une réaction chimique libère de l'énergie, elle est dite :",
+  "choices": [
+    "Endothermique",
+    "Exothermique",
+    "Isotherme",
+    "Aucune de ces réponses"
+  ],
+  "correctAnswer": "Exothermique",
+  "explanation": "Une réaction exothermique est une réaction qui libère de l'énergie sous forme de chaleur ou de lumière."
+},
+{
+  "questionText": "Quel est le nom de la première loi de Newton, qui décrit le mouvement des objets ?",
+  "choices": [
+    "Loi de l'inertie",
+    "Loi de la gravitation universelle",
+    "Loi de l'action et de la réaction",
+    "Loi de l'accélération"
+  ],
+  "correctAnswer": "Loi de l'inertie",
+  "explanation": "La première loi de Newton, appelée la loi de l'inertie, stipule qu'un objet au repos reste au repos et un objet en mouvement continue de se déplacer à vitesse constante à moins qu'une force extérieure n'agisse sur lui."
+},
+{
+  "questionText": "Quelle est la fonction principale du cœur humain ?",
+  "choices": [
+    "Pomper le sang",
+    "Produire de l'oxygène",
+    "Réguler la température corporelle",
+    "Stocker les nutriments"
+  ],
+  "correctAnswer": "Pomper le sang",
+  "explanation": "Le cœur est responsable de la circulation sanguine dans le corps humain en pompant le sang vers les organes et les tissus."
+},
+{
+  "questionText": "Quel est le plus grand organe du corps humain ?",
+  "choices": [
+    "Le cerveau",
+    "Le foie",
+    "La peau",
+    "Les poumons"
+  ],
+  "correctAnswer": "La peau",
+  "explanation": "La peau est le plus grand organe du corps humain en termes de surface, recouvrant tout le corps."
+},
+{
+  "questionText": "Qu'est-ce qui est produit lors de la photosynthèse ?",
+  "choices": [
+    "De l'oxygène et du glucose",
+    "De l'azote et du dioxyde de carbone",
+    "Du dioxyde de carbone et de l'eau",
+    "De l'hydrogène et du sucre"
+  ],
+  "correctAnswer": "De l'oxygène et du glucose",
+  "explanation": "La photosynthèse est le processus par lequel les plantes produisent de l'oxygène et du glucose en utilisant la lumière, l'eau et le dioxyde de carbone."
+},
+      {
+"questionText": "Quel organe humain produit l'insuline ?",
+"choices": [
+  "Le foie",
+  "Le pancréas",
+  "Les reins",
+  "L'estomac"
+],
+"correctAnswer": "Le pancréas",
+"explanation": "L'insuline est produite par le pancréas, une glande située près de l'estomac."
+},
+{
+"questionText": "Quel est le rôle des globules rouges dans le corps humain ?",
+"choices": [
+  "Transporter l'oxygène",
+  "Combattre les infections",
+  "Aider à la digestion",
+  "Produire des anticorps"
+],
+"correctAnswer": "Transporter l'oxygène",
+"explanation": "Les globules rouges transportent l'oxygène des poumons vers les tissus et organes du corps."
+},
+{
+"questionText": "Quelle est la principale source d'énergie de la cellule ?",
+"choices": [
+  "L'oxygène",
+  "Le glucose",
+  "Les lipides",
+  "Les protéines"
+],
+"correctAnswer": "Le glucose",
+"explanation": "Le glucose est la principale source d'énergie pour la cellule, utilisée dans le métabolisme cellulaire."
+}
+]
+},
+  {
     "domain": "Mathématiques",
     "questions": [
       {
